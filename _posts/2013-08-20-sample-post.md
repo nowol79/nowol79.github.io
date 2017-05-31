@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Sample post
+title: Sample 포스트 
 categories:
 - blog
 ---
 
+신기하네. 
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
 meggings hella selvage. Butcher bespoke seitan, cornhole umami gentrify put a bird 
 on it occupy trust fund. Umami whatever kitsch, locavore fingerstache Tumblr pork belly
